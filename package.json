@@ -1,0 +1,17 @@
+{
+  "name": "hypixelautotip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "mineflayer": "^3.11.2",
+    "minecraft-protocol": "^1.26.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

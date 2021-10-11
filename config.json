@@ -1,0 +1,9 @@
+{
+    "username": "",
+    "password": "",
+    "auth": "mojang or microsoft",
+    "uuid": "Your player UUID",
+    "apikey": "Your Hypixel API Key (/api new)",
+    "checksPerMin": 2,
+    "version": "1.8.9"
+}
