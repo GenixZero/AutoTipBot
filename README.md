@@ -3,5 +3,6 @@ It uses Hypixel's API to get the status of your player so it doesn't login while
 
 # Setup
 1. `git clone https://github.com/GenixZero/AutoTipBot`
-2. Edit config.json with your details
-3. `npm start`
+2. `npm i chalk mineflayer minecraft-protocol`
+3. Edit config.json with your details
+4. `npm start`
